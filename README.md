@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I am a tech enthusiast focusing on database management and backend development. Graduating from DTSS College and the University of Mumbai, I aim to excel as a Technical Trainee or Backend Developer.
 
 - 🌱 Currently learning PostgreSQL and full-stack development.
-- 🔭 Building scalable backend solutions with robust APIs.
+- 🔭 Building scalable backend solutions with APIs.
 
 ---
 ### 💬 Ask me about

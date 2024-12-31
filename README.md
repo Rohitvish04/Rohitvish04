@@ -27,6 +27,10 @@ I am a tech enthusiast focusing on database management and backend development. 
 - 🔭 Building scalable backend solutions with robust APIs.
 
 ---
+### 💬 Ask me about
+- Anything related to Frontend, backend development, or APIs!
+  
+---
 
 ### 📫 How to Reach Me
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rohitvvishwakarma)  
@@ -37,8 +41,9 @@ I am a tech enthusiast focusing on database management and backend development. 
 
 ### 🔧 Skills & Tools
 
-- **Databases:** PostgreSQL, MySQL, SQL Server
-- **Backend:** Node.js, Javascript, RESTful APIs
+- **Frontend:** HTML, CSS, Javascript, Tailwindcss
+- **Backend:** Node.js, Javascript, RESTful APIs (Basics, aiming to improve!)
+- **Databases:** PostgreSQL, MySQL, SQL Server (Basics, aiming to improve!)
 - **Others:** Git,Postman
 
 ---

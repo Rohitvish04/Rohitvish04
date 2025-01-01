@@ -41,9 +41,10 @@ I am a tech enthusiast focusing on database management and backend development. 
 
 ### 🔧 Skills & Tools
 
-- **Frontend:** HTML, CSS, Javascript, Tailwindcss
+ 
 - **Backend:** Node.js, Javascript, RESTful APIs (Basics, aiming to improve!)
 - **Databases:** PostgreSQL, MySQL, SQL Server (Basics, aiming to improve!)
+- - **Frontend:** HTML, CSS, Javascript
 - **Others:** Git,Postman
 
 ---

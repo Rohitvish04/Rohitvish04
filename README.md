@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Rohitvish04/Rohitvish04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +32,6 @@ I am a tech enthusiast focusing on database management and backend development. 
 
 ### 📫 How to Reach Me
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rohitvvishwakarma)  
-- 💻 GitHub: [GitHub Profile](https://github.com/Rohitvish04)  
 - 📧 Email: rohitvvishwakarma400@gmail.com
 
 ---
@@ -44,7 +41,7 @@ I am a tech enthusiast focusing on database management and backend development. 
  
 - **Backend:** Node.js, Javascript, RESTful APIs (Basics, aiming to improve!)
 - **Databases:** PostgreSQL, MySQL, SQL Server (Basics, aiming to improve!)
-- - **Frontend:** HTML, CSS, Javascript
+- **Frontend:** HTML, CSS, Javascript
 - **Others:** Git,Postman
 
 ---
